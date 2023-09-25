@@ -1,4 +1,4 @@
-# FusionXality.github.io
+# DylanWaters.github.io
 CTI-110 repository
 Dylan Waters
 dwatersandfriends@gmail.com(Used for github) dswaters@my.waketech.edu(school email)
